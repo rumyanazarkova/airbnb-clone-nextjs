@@ -1,8 +1,8 @@
 
-##**Airbnb Clone with Next.js 13**
+**Airbnb Clone with Next.js 13**
 Welcome to the Full Stack Airbnb Clone with Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth! This repository is a comprehensive Airbnb-like application that employs a range of technologies and features to provide a rich user experience. Below, you'll find an overview of the project setup.
 
-Link to the project on Vercel [here]()
+Link to the project on Vercel [here](https://rentapp-clone-nextjs.vercel.app/)
 
 
 **✨ Design**
